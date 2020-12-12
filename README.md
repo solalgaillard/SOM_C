@@ -88,7 +88,7 @@ binary. */
 ```
 
 
-##How and Why
+## How and Why
 I tried to implement the SOM algorithm in the cleanliest way
 possible while providing visualization thanks to
 gnuplot. To test the algorithm, I used the iris "dataset" accessible on
@@ -107,7 +107,7 @@ different implementations of SOM with different parameters). You will find all t
 allow you to define all the parameters of the algorithm at the top of the program in
 main.c.
 
-##Examples Outputs
+## Examples Outputs
 <img src='./doc_outputs/1.jpg' alt='A Basic output' width='800px'>
 <img src='./doc_outputs/2.jpg' alt='A Basic output' width='800px'>
 <img src='./doc_outputs/3.jpg' alt='A Basic output' width='800px'>
@@ -121,7 +121,7 @@ clusterize the three classes of irises with a fairly limited overlap between ver
 virginica.
 
 
-##References that have helped me:
+## References that have helped me:
 Below is a list of references that have helped me. I used
 minisom in order to check the behavior of this program by comparing it to
 the python implementation. The visualization is largely taken from the examples
